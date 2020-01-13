@@ -9,6 +9,12 @@ export default StyleSheet.create({
         borderColor: '#222',
         fontSize: 24,
         fontWeight: 'bold'
-    }
+    },
+    container: {
+        flex: 1,
+        backgroundColor: '#fff',
+        alignItems: 'center',
+        justifyContent: 'center',
+      }
 
 })
